@@ -1,4 +1,4 @@
-# Web Profile | Studi Independent GITS ID
+# Web Profile | Studi Independen GITS ID
 ### :open_book: Description
 This repository was created to fulfill the web profile assignment in the Independent Fullstack Web Developer Study program by GITS.id partner, MSIB Batch 4.
 
@@ -12,10 +12,6 @@ This repository was created to fulfill the web profile assignment in the Indepen
  - Sweetalert2
  - Jquery
 
-### :man: For my mentor
-    
-    git clone https://github.com/ferdyhape/Web-Profile.git
-   
 ### :camera: Page Screenshot
 <img src="https://user-images.githubusercontent.com/75787853/220665715-7ae98a95-8e0a-4c1c-9e0b-39f2f712ea1d.jpeg" width=70% height=70%><br>
 
