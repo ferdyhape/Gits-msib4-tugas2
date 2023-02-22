@@ -2,6 +2,10 @@
 ### :open_book: Description
 This repository was created to fulfill the web profile assignment in the Independent Fullstack Web Developer Study program by GITS.id partner, MSIB Batch 4.
 
+
+## :pushpin: Noted!
+**This web is the development of my own web profile in [this repository](https://github.com/ferdyhape/ferdyhape.github.io.git)**
+
 ### :gear: Libraries used
  - Bootstrap
  - Google Fonts
