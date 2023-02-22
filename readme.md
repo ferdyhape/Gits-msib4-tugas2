@@ -2,7 +2,7 @@
 ### :open_book: Description
 This repository was created to fulfill the web profile assignment in the Independent Fullstack Web Developer Study program by GITS.id partner, MSIB Batch 4.
 
-### :gear: Libraries Used :
+### :gear: Libraries used
  - Bootstrap
  - Google Fonts
  - Sweetalert2
