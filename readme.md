@@ -1,0 +1,1 @@
+This repository was created to fulfill the web profile assignment in the Independent FullStack Developer Study program by GITS.id partner, MSIB Batch 4
