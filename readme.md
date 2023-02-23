@@ -6,7 +6,7 @@ This repository was created to fulfill the web profile assignment in the Indepen
 ## :pushpin: Noted!
 **This web is the development of my own web profile in [this repository](https://github.com/ferdyhape/ferdyhape.github.io.git)**
 
-### :gear: Libraries used
+### :gear: Framework and libraries used
  - Bootstrap
  - Google Fonts
  - Sweetalert2
