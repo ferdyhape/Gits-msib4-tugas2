@@ -1,5 +1,10 @@
 # Web Profile | Studi Independen GITS ID
-### :open_book: Description
+
+## :man: Creator
+Name: ``` Ferdy Hahan Pradana ```
+Campus: ``` Politeknik Negeri Malang ```
+
+## :open_book: Description
 This repository was created to fulfill the web profile assignment in the Independent Fullstack Web Developer Study program by GITS.id partner, MSIB Batch 4.
 
 
